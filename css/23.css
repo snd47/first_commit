@@ -1,0 +1,47 @@
+body {
+    width: 350px;
+    margin: 0;
+    padding: 0 10px;
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th {
+    padding: 10px;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    width: 33%;
+    
+}
+
+td {
+    padding: 10px;
+    border-bottom: 1px solid lightgray;
+    width: 33%;
+    
+}
+
+.row-1 {
+    background-color: darkcyan;
+    color: white;
+}
+
+.yel {
+    background-color: lightyellow;
+}
+
+.alignr {
+    text-align: right;
+}
+
+.alignc {
+    text-align: center;
+}
+
+.alignl {
+    text-align: left;
+}
